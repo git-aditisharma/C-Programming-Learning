@@ -10,9 +10,10 @@ I successfully completed all 4 stages of C compilation in Kali Linux:
 2. ✅ **Compilation** - Generated assembly
 3. ✅ **Assembly** - Created object file
 4. ✅ **Linking** - Created executable
-```
+
 
 ## My Source Code
+```
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
